@@ -1,0 +1,10 @@
+##
+## Amarok Mirrorlist
+##
+
+[United_States]
+deb https://osdn.mirror.constant.com/storage/g/a/am/amaroklinux/rolling/ rolling main contrib non-free
+deb https://mirror.math.princeton.edu/pub/osdn/storage/g/a/am/amaroklinux/rolling/ rolling main contrib non-free
+deb https://mirrors.ocf.berkeley.edu/osdn/storage/g/a/am/amaroklinux/rolling/ rolling main contrib non-free
+deb https://mirrors.gigenet.com/OSDN/storage/g/a/am/amaroklinux/rolling/ rolling main contrib non-free
+deb https://plug-mirror.rcac.purdue.edu/osdn/storage/g/a/am/amaroklinux/rolling/ rolling main contrib non-free

@@ -1,0 +1,6 @@
+##
+## Amarok Mirrorlist
+##
+
+[Taiwan]
+deb https://free.nchc.org.tw/osdn/storage/g/a/am/amaroklinux/rolling/ rolling main contrib non-free

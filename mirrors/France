@@ -1,0 +1,6 @@
+##
+## Amarok Mirrorlist
+##
+
+[France]
+deb http://www.skyward.fr/mirror/osdn.net/storage/g/a/am/amaroklinux/rolling/ rolling main contrib non-free

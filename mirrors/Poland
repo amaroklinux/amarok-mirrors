@@ -1,0 +1,6 @@
+##
+## Amarok Mirrorlist
+##
+
+[Poland]
+deb http://mirroronet.pl/pub/mirrors/sourceforge.jp/storage/g/a/am/amaroklinux/rolling/ rolling main contrib non-free

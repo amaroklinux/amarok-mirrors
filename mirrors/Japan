@@ -1,0 +1,8 @@
+##
+## Amarok Mirrorlist
+##
+
+[Japan]
+deb https://ftp.jaist.ac.jp/pub/sourceforge.jp/storage/g/a/am/amaroklinux/rolling/ rolling main contrib non-free
+deb https://ftp.iij.ad.jp/pub/osdn.jp/storage/g/a/am/amaroklinux/rolling/ rolling main contrib non-free
+deb https://ymu.dl.osdn.jp/storage/g/a/am/amaroklinux/rolling/ rolling main contrib non-free

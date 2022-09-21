@@ -1,0 +1,10 @@
+##
+## Amarok Mirrorlist
+##
+
+[Denmark]
+deb https://mirrors.dotsrc.org/osdn/storage/g/a/am/amaroklinux/rolling/ rolling main contrib non-free
+deb http://dk.archive.ubuntu.com/osdn/storage/g/a/am/amaroklinux/rolling/ rolling main contrib non-free
+deb http://ftp.dk.debian.org/osdn/storage/g/a/am/amaroklinux/rolling/ rolling main contrib non-free
+deb http://ftp.dk.xemacs.org/osdn/storage/g/a/am/amaroklinux/rolling/ rolling main contrib non-free
+deb http://mirrors.sunsite.dk/osdn/storage/g/a/am/amaroklinux/rolling/ rolling main contrib non-free

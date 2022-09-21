@@ -1,0 +1,6 @@
+##
+## Amarok Mirrorlist
+##
+
+[Brazil]
+deb https://openbsd.c3sl.ufpr.br/osdn/storage/g/a/am/amaroklinux/rolling/ rolling main contrib non-free

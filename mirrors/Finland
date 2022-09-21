@@ -1,0 +1,6 @@
+##
+## Amarok Mirrorlist
+##
+
+[Finland]
+deb http://ftp.fi.debian.org/mirror/osdn.net/storage/g/a/am/amaroklinux/rolling/ rolling main contrib non-free

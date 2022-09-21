@@ -1,0 +1,6 @@
+##
+## Amarok Mirrorlist
+##
+
+[Germany]
+deb https://ftp.halifax.rwth-aachen.de/osdn/storage/g/a/am/amaroklinux/rolling/ rolling main contrib non-free

@@ -1,0 +1,6 @@
+##
+## Amarok Mirrorlist
+##
+
+[Kenya]
+deb https://osdn.mirror.liquidtelecom.com/storage/g/a/am/amaroklinux/rolling/ rolling main contrib non-free

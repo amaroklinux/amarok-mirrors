@@ -1,0 +1,6 @@
+##
+## Amarok Mirrorlist
+##
+
+[Ukraine]
+deb http://osdn.ip-connect.vn.ua/storage/g/a/am/amaroklinux/rolling/ rolling main contrib non-free
